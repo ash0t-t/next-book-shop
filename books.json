@@ -1,0 +1,37 @@
+[
+  {
+    "id": 101,
+    "title": "JS with Marjinyan",
+    "author": "Armen Marjinyan",
+    "price": 900000,
+    "photo": "https://zangakbookstore.am/uploads/images/products/4ab27e978b1de5df2bda938c02af41af.jpeg"
+  },
+  {
+    "id": 102,
+    "title": "Psychology",
+    "author": "Julie McFadden",
+    "price": 10000,
+    "photo": "https://m.media-amazon.com/images/I/91AiNeHUoNL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 103,
+    "title": "Samvel",
+    "author": "Raffi",
+    "price": 20000,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_0HEiR3BOmU84GCBP6U5fxsz12fKfYtZswA&usqp=CAU"
+  },
+  {
+    "id": 104,
+    "title": "Hovazadzori geriner@",
+    "author": "Vakhtang Ananyan",
+    "price": 5000,
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/81LDP+GDKVL._AC_UL210_SR210,210_.jpg"
+  },
+  {
+    "id": 105,
+    "title": "Aybolit",
+    "author": "Korney Chukovsky",
+    "price": 15000,
+    "photo": "https://static.periplus.com/vUrOCND_0zeVzmUSphOzvCtjOPlAcIT_LdbRBke1zortnnURweXOxUOJkJlNjVuEA--"
+  }
+]
